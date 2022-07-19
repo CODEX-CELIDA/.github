@@ -21,6 +21,8 @@ Project partners
 * Universitätsklinikum Würzburg
 * Charité - Universitätsmedizin Berlin
 
+<br/><br/><br/>
+
 Links
 -----
 * [Clinical Practice Guidelines on EBMonFIR - Implementation Guide](https://ceosys.github.io/cpg-on-ebm-on-fhir/)

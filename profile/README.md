@@ -1,6 +1,6 @@
 CODEX+ CELIDA - COVID-19 Clinical Guidelines to Data Mapper
 ===========================================================
-<img src="../img/celida-logo.png" align="right">
+<img src="img/celida-logo.png" align="right">
 
 Aim
 ---
@@ -14,7 +14,7 @@ Objectives
 
 Project partners
 ----------------
-<img src="../img/partner.png" align="left" width="15%">
+<img src="img/partner.png" align="left" width="15%">
 
 * Universitätsmedizin Greifswald
 * Technische Universität München / Klinikum rechts der Isar

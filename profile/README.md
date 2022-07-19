@@ -9,7 +9,7 @@ Building a platform to automatically integrate clinical practice guidelines with
 Objectives
 ----------
 * Evaluation, adaptation and extension of EBMonFHIR for clinical guideline representation.
-* Integration of the OMOP data store (WP3) with the clinical guideline representation for retrieval of patients matching guideline criteria and check of guideline adherence
+* Integration of the OMOP data store with the clinical guideline representation for retrieval of patients matching guideline criteria and check of guideline adherence
 * Development of visualizations and a graphical user interface for interaction with clinical guideline representations and comparison of individual guideline adherence.
 
 Project partners
@@ -20,3 +20,7 @@ Project partners
 * Klinikum rechts der Isar der Technischen Universität München
 * Universitätsklinikum Würzburg
 * Charité - Universitätsmedizin Berlin
+
+Links
+-----
+* [Clinical Practice Guidelines on EBMonFIR - Implementation Guide](https://ceosys.github.io/cpg-on-ebm-on-fhir/)

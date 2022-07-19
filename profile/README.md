@@ -17,6 +17,6 @@ Project partners
 <img src="img/partner.png" align="left" width="15%">
 
 * Universitätsmedizin Greifswald
-* Technische Universität München / Klinikum rechts der Isar
-* Universitätsklinik Würzburg
+* Klinikum rechts der Isar der Technischen Universität München
+* Universitätsklinikum Würzburg
 * Charité - Universitätsmedizin Berlin
